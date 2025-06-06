@@ -16,3 +16,10 @@ Além disso, possui uma estrutura modular com separação clara entre entidades,
    git clone https://github.com/seu-usuario/PowerCure.git
    cd PowerCure
 3. Execute o sistema.
+   
+---
+
+## Grupo:
+Octávio Hernandez Chiste Cordeiro – RM 97894 |
+Rafael Perussi Caczan – RM 93092 |
+Sabrina Flores – RM 550781 
