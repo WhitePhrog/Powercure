@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PowerCure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+627d341b3aa7066602bfe3e8590198a09c29c657")]
 [assembly: System.Reflection.AssemblyProductAttribute("PowerCure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PowerCure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
